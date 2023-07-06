@@ -1,0 +1,683 @@
+{
+  "intents": [
+    {
+      "intent": "capasitor_function",
+      "examples": [
+        {
+          "text": "fungsi kapasitor"
+        },
+        {
+          "text": "The primary function of a capacitor is"
+        },
+        {
+          "text": "what is the function of capasitor"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "capasitor_mean",
+      "examples": [
+        {
+          "text": "capasitor is"
+        },
+        {
+          "text": "what is capasitor"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "capasitor_pic",
+      "examples": [
+        {
+          "text": "show capasitor"
+        },
+        {
+          "text": "show me capasitor"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "diode_function",
+      "examples": [
+        {
+          "text": "apa fungsi dioda"
+        },
+        {
+          "text": "diode function is"
+        },
+        {
+          "text": "what is the function of diode"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "diode_mean",
+      "examples": [
+        {
+          "text": "apa itu dioda"
+        },
+        {
+          "text": "diode is"
+        },
+        {
+          "text": "diode is a"
+        },
+        {
+          "text": "what is diode"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "diode_pic",
+      "examples": [
+        {
+          "text": "show diode"
+        },
+        {
+          "text": "show me diode"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "inductor_function",
+      "examples": [
+        {
+          "text": "apa fungsi induktor"
+        },
+        {
+          "text": "inductor function is"
+        },
+        {
+          "text": "what is the function of inductor"
+        },
+        {
+          "text": "What is the purpose of a inductor in an electronic circuit?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "inductor_mean",
+      "examples": [
+        {
+          "text": "apa itu induktor"
+        },
+        {
+          "text": "inductor is"
+        },
+        {
+          "text": "what is inductor"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "inductor_pic",
+      "examples": [
+        {
+          "text": "show inductor"
+        },
+        {
+          "text": "show me inductor"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "resistor_function",
+      "examples": [
+        {
+          "text": "fungsi resistor"
+        },
+        {
+          "text": "The primary function of a resistor is"
+        },
+        {
+          "text": "what is the function of resistor"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "resistor_mean",
+      "examples": [
+        {
+          "text": "resistor is"
+        },
+        {
+          "text": "what is resistor"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "resistor_pic",
+      "examples": [
+        {
+          "text": "show me resistor"
+        },
+        {
+          "text": "show resistor"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "trafo_function",
+      "examples": [
+        {
+          "text": "What is the purpose of a transformator in an electronic circuit?"
+        },
+        {
+          "text": "What is the purpose of a transformer in an electronic circuit?"
+        },
+        {
+          "text": "what is trafo function"
+        },
+        {
+          "text": "what is transformator function"
+        },
+        {
+          "text": "what is transformerr function"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "trafo_mean",
+      "examples": [
+        {
+          "text": "tranfo is"
+        },
+        {
+          "text": "transformator is"
+        },
+        {
+          "text": "transformer is"
+        },
+        {
+          "text": "what is trafo"
+        },
+        {
+          "text": "what is transformator"
+        },
+        {
+          "text": "what is transformer"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "trafo_pic",
+      "examples": [
+        {
+          "text": "show me transformator"
+        },
+        {
+          "text": "show transformator"
+        },
+        {
+          "text": "show transformer"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "transistor_function",
+      "examples": [
+        {
+          "text": "fungsi transistor"
+        },
+        {
+          "text": "transistor function"
+        },
+        {
+          "text": "what is the function of transistor"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "transistor_mean",
+      "examples": [
+        {
+          "text": "apa itu transistor"
+        },
+        {
+          "text": "transistor is a"
+        },
+        {
+          "text": "what is transistor?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "transistor_pic",
+      "examples": [
+        {
+          "text": "show me transistor"
+        },
+        {
+          "text": "show transistor"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "wellcome",
+      "examples": [
+        {
+          "text": "Hai"
+        },
+        {
+          "text": "Hallo"
+        },
+        {
+          "text": "halo"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Tes"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_5_1688623695358",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A resistor is an electronic component that is primarily used to restrict or control the flow of electric current in a circuit. It acts as a passive component by providing resistance to the flow of electrons. The purpose of a resistor can vary depending on the specific application within the circuit."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#resistor_mean",
+      "dialog_node": "node_10_1688618405484",
+      "previous_sibling": "node_4_1688619247561"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A transformer is an electrical device that consists of two or more coils of wire wound around a shared core. It is used to transfer electrical energy between circuits through electromagnetic induction.\n\nTransformers come in different types, such as power transformers, audio transformers, isolation transformers, and more, each designed for specific applications. Their ability to efficiently transfer electrical energy, provide voltage transformation, impedance matching, and isolation makes transformers vital components in power systems, electronic equipment, and various industries."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#trafo_mean",
+      "dialog_node": "node_10_1688623396208",
+      "previous_sibling": "node_6_1688620516266"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Trafo",
+            "source": "https://th.bing.com/th/id/OIP.QM1pNP3_w9gdtfz1CV60awAAAA?w=209&h=216&c=7&r=0&o=5&pid=1.7",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#trafo_pic",
+      "dialog_node": "node_10_1688623609292",
+      "previous_sibling": "node_10_1688623396208"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Transistor is a semiconductor device with three layers of material—namely, the emitter, base, and collector—forming two pn junctions. \n\nTransistors are available in various types, including bipolar junction transistors (BJTs) and field-effect transistors (FETs), each with its own characteristics and applications. Their ability to amplify, switch, and regulate electrical signals makes transistors fundamental components in modern electronic circuits, enabling a wide range of applications across different industries and technologies."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#transistor_mean",
+      "dialog_node": "node_1_1688619641213",
+      "previous_sibling": "node_2_1688618974472"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Diode",
+            "source": "https://th.bing.com/th/id/R.afb9d63f50fa40eefe1c45d29e2a9c1d?rik=Mkj9EUuG6wCZEw&riu=http%3a%2f%2finformazone.com%2fwp-content%2fuploads%2f2017%2f04%2fdioda-dan-simbol.jpg&ehk=Vkq%2f%2fQpumBiwK%2b%2fhVXLMPhPnVCtxCyhghy3awuhxQNg%3d&risl=&pid=ImgRaw&r=0",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#diode_pic",
+      "dialog_node": "node_1_1688620162806",
+      "previous_sibling": "node_8_1688620121362"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The purpose of a resistor can vary depending on the specific application within the circuit. Some common purposes of resistors include:\n\nVoltage division: Resistors are often used in voltage divider circuits to divide a voltage into smaller proportions.\n\nCurrent limiting: By adding a resistor in series with a component, the current flowing through the component can be limited to a desired value.\n\nPull-up or pull-down: Resistors are used in digital circuits to ensure that an input signal is at a defined logic level when it is not being actively driven.\n\nLoad resistance: In many cases, resistors act as load resistances in circuits, converting electrical energy into heat.\n\nBiasing: Resistors are used to establish bias currents and voltages in electronic devices such as transistors and operational amplifiers.\n\nThese are just a few examples of the purposes of resistors in electronic circuits. The value of a resistor, measured in ohms, determines the amount of resistance it provides to the flow of current."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#resistor_function",
+      "dialog_node": "node_2_1688618974472",
+      "previous_sibling": "node_8_1688618921388"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Transistor",
+            "source": "https://1.bp.blogspot.com/-uuURZBmY00U/VW501Gh-gaI/AAAAAAAAAGk/Yx4e2Kxl2UQ/s320/Fig3%2B-%2BTransistorSymbol.gif",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#transistor_pic",
+      "dialog_node": "node_3_1688619702380",
+      "previous_sibling": "node_1_1688619641213"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi welcome to CompBuddy How can i help you?"
+              },
+              {
+                "text": "Hallo, CompBuddy's here! Please Let me know if there any questions ^_^"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://th.bing.com/th/id/R.fdb15ac2129d23e5e80abec8ced13fc6?rik=F0JUfOFigsMCwA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-zxfy4gsE2Ls%2fVk3urkkl-FI%2fAAAAAAAAAFk%2f8s4zcJ9N3L0%2fw1200-h630-p-k-no-nu%2fKomponen-Elektronika.jpg&ehk=hBdmaOOhDbts180b92lFCExDIvCA8TsxL1yJq0UFsqo%3d&risl=&pid=ImgRaw&r=0",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#wellcome",
+      "dialog_node": "node_4_1688618175245",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The primary function of a capacitor is to store and release electrical energy in a controlled manner. It can temporarily hold a charge and then release it when needed. Capacitors are commonly used in electronic circuits for various purposes, including:\n\nEnergy storage: Capacitors store electrical energy and can release it quickly when required, such as in camera flashes or power supply systems.\n\nFiltering: Capacitors can filter out certain frequencies or smooth out variations in voltage or current, making them useful in power supply circuits and audio systems.\n\nCoupling and decoupling: Capacitors are used to couple or decouple signals between different parts of a circuit, allowing the passage of AC signals while blocking DC signals.\n\nTiming and oscillation: Capacitors, in conjunction with resistors, can be used to create timing circuits, oscillators, and frequency-dependent circuits like filters and oscillators.\n\nPower factor correction: Capacitors are employed in power factor correction circuits to improve the efficiency of electrical systems by reducing reactive power."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#capasitor_function",
+      "dialog_node": "node_4_1688619247561",
+      "previous_sibling": "node_5_1688618795373"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Capasitor ",
+            "source": "https://www.matrix-handel.de/main/images/310541.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#capasitor_pic",
+      "dialog_node": "node_5_1688618795373",
+      "previous_sibling": "node_8_1688618675424"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The purpose of a transformer in an electronic circuit is to transfer electrical energy from one circuit to another through electromagnetic induction. \n\nHere are the main functions and applications of transformers in electronic circuits:\n\n1. Voltage transformation: Transformers are primarily used to step up or step down voltage levels in AC (alternating current) power systems. A step-up transformer increases the input voltage to a higher output voltage, while a step-down transformer reduces the input voltage to a lower output voltage. This capability allows efficient power transmission over long distances, voltage conversion for different equipment, and isolation between circuits.\n\n2. Power distribution: Transformers play a crucial role in power distribution networks, where high voltage generated at power plants is stepped down for consumer use. They enable safe and efficient transmission of electrical energy by reducing the voltage levels for distribution to homes, businesses, and industries.\n\n3. Impedance matching: Transformers can also be used for impedance matching purposes. By adjusting the turns ratio between the primary and secondary windings, transformers can match the impedance of a source with the impedance of a load, ensuring maximum power transfer between the two circuits.\n\n4. Isolation: Transformers provide electrical isolation between the input and output circuits. This isolation offers protection against electric shock, helps prevent ground loops and noise interference, and enables the connection of devices with different reference potentials.\n\n5. Signal coupling and isolation: In electronic circuits, transformers are used for coupling or isolating signals between different stages or components. Audio transformers, for example, are often employed to couple audio signals between microphones, amplifiers, and speakers while providing impedance matching and isolation.\n\n6. Instrumentation and measurement: Transformers are used in various measurement and instrumentation applications. Current transformers are used to measure high current levels safely, while potential transformers (also known as voltage transformers) are used for accurate voltage measurement.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#trafo_function",
+      "dialog_node": "node_5_1688623695358",
+      "previous_sibling": "node_10_1688623609292"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The purpose of a transistor in an electronic circuit is to amplify and control the flow of electrical signals or to act as an electronic switch. \nThe main functions and applications of transistors in electronic circuits are as follows:\n\n1. Amplification: Transistors are commonly used to amplify weak electrical signals. By applying a small input signal to the base terminal, the transistor can control a larger output signal between the collector and emitter terminals. This property makes transistors essential in audio amplifiers, radio frequency circuits, and various signal processing applications.\n\n2. Switching: Transistors can act as electronic switches by controlling the flow of current through a circuit. In digital circuits, transistors are used to switch between the \"on\" and \"off\" states, representing binary information (0s and 1s). This enables them to be used in logic gates, memory circuits, microprocessors, and other digital systems.\n\n3. Oscillation: Transistors can be used in conjunction with other components to create oscillators, which generate continuous waveforms or periodic signals. These oscillators are essential in applications such as generating clock signals, radio frequency signal generation, and audio tone generation.\n\n4. Voltage regulation: Certain types of transistors, such as voltage regulators, are designed to maintain a stable output voltage despite fluctuations in input voltage or load variations. They are commonly used in power supplies and voltage regulation circuits.\n\n5. Current amplification: Transistors can be configured in specific ways, such as Darlington or current mirror configurations, to provide high current amplification. This makes them useful in applications where a small input current needs to control a larger output current, such as in motor drivers or high-power LED drivers.\n\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#transistor_function",
+      "dialog_node": "node_6_1688619830417",
+      "previous_sibling": "node_3_1688619702380"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Inductor",
+            "source": "https://i.pinimg.com/736x/57/52/fd/5752fd8e8cb9d14483642b176e8cb742.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#inductor_pic",
+      "dialog_node": "node_6_1688620516266",
+      "previous_sibling": "node_9_1688620486581"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A capacitor is an electronic component that stores and releases electrical energy in a circuit. It is made up of two conductive plates separated by a dielectric material, which is an insulator. When a voltage is applied across the plates, an electric field is formed, causing the capacitor to store electrical charge."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#capasitor_mean",
+      "dialog_node": "node_8_1688618675424",
+      "previous_sibling": "node_4_1688618175245"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Resistor",
+            "source": "https://th.bing.com/th/id/R.a732e997fadb864f48f9cf8bb43791ae?rik=uS7Qsefxq6t4jw&riu=http%3a%2f%2fd114hh0cykhyb0.cloudfront.net%2fimages%2fuploads%2fresistors-0004-2b.jpg&ehk=rb9kiFhNTamNQk571K%2bcFYpuauT5GWcPROJDfLo12sA%3d&risl=&pid=ImgRaw&r=0",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#resistor_pic",
+      "dialog_node": "node_8_1688618921388",
+      "previous_sibling": "node_10_1688618405484"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A diode is a two-terminal semiconductor device that consists of a p-n junction, formed by joining a p-type semiconductor material (with an excess of positive charge carriers or \"holes\") and an n-type semiconductor material (with an excess of negative charge carriers or electrons).\n\nDiodes come in different types, such as standard silicon diodes, Schottky diodes, varactor diodes, and more, each with its own characteristics and applications. Their ability to control the direction of current flow and provide various circuit functionalities makes diodes indispensable components in a wide range of electronic circuits and systems."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#diode_mean",
+      "dialog_node": "node_8_1688620121362",
+      "previous_sibling": "node_6_1688619830417"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The purpose of a diode in an electronic circuit is to allow current flow in one direction while blocking it in the opposite direction. \n\nHere are the main functions and applications of diodes in electronic circuits:\n\n1. Rectification: One of the primary uses of diodes is rectification, which involves converting alternating current (AC) into direct current (DC). Diodes act as a one-way valve for current, allowing it to flow in the forward direction (from anode to cathode) while blocking it in the reverse direction. This property makes diodes essential in power supplies and rectifier circuits.\n\n2. Current and voltage regulation: Certain types of diodes, such as Zener diodes, are specifically designed to operate in the reverse breakdown region. They can maintain a constant voltage across their terminals, even with varying current. Zener diodes are commonly used in voltage regulation, voltage reference circuits, and surge protection.\n\n3. Switching: Diodes can be used as simple electronic switches. When a diode is forward-biased, it acts as a closed switch, allowing current to flow. Conversely, when it is reverse-biased, it acts as an open switch, preventing current flow. This property makes diodes useful in digital logic circuits, signal gating, and protection against voltage spikes.\n\n4. Signal clamping and protection: Diodes are used for signal conditioning and protection against voltage spikes. For instance, in clamp circuits, diodes limit the amplitude of a signal to a specific range. They also protect sensitive electronic components from voltage surges and transient voltages by shunting excess energy away from the protected components.\n\n5. Waveform shaping: Diodes, in conjunction with capacitors and resistors, are used to shape and modify waveforms in electronic circuits. For example, in a diode clipper circuit, the diode clips or cuts off a portion of the waveform, resulting in waveform distortion or amplitude limitation.\n\n6. Light emission: Light-emitting diodes (LEDs) are a specific type of diode that emit light when forward-biased. LEDs are extensively used in displays, indicator lights, signage, and various lighting applications.\n\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#diode_function",
+      "dialog_node": "node_9_1688620225760",
+      "previous_sibling": "node_1_1688620162806"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "An inductor is a passive two-terminal component that consists of a coil of wire wound around a core made of ferromagnetic material.\n\nInductors come in various types, including air-core inductors, iron-core inductors, toroidal inductors, and surface mount inductors, each with its own characteristics and applications. Their ability to store and release energy in the form of a magnetic field makes inductors essential components in various electronic circuits, ranging from power electronics and communication systems to audio equipment and electronic devices."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#inductor_mean",
+      "dialog_node": "node_9_1688620486581",
+      "previous_sibling": "node_9_1688620225760"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "learning_opt_out": false,
+  "language": "en",
+  "description": "created for assistant e2367094-809c-4afd-843f-a28d94e7837c",
+  "name": "CompBuddy-dialog"
+}
