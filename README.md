@@ -18,7 +18,9 @@ When the reader has completed this Code Pattern, they will understand how to:
  * https://developer.ibm.com/patterns/assemble-a-pizza-ordering-chatbot-dialog/ 
  * https://developer.ibm.com/developer/default/patterns/assemble-a-pizza-ordering-chatbot-dialog/images/pizza-architecture.png
 
+
 ## Flow
+![alt text](https://github.com/mutiaraax/compbuddy/blob/main/pizza-architecture.png?raw=true) 
 1. User sends messages to the application (running locally or on IBM Cloud).
 2. The application sends the user message to IBM Watson Assistant service, and displays the ongoing chat in a web page.
 
